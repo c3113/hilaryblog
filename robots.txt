@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://c3113.github.io/sitemap.xml 
